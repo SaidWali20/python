@@ -1,5 +1,4 @@
 # Python
-python-complete-course
 01_basics
 02_control_flow
 03_functions
