@@ -1,11 +1,11 @@
 # Python
-01_basics
-02_control_flow
-03_functions
-04_data_structures
-05_oop
-06_files
-07_error_handling
-08_modules_packages
-09_advanced
- 10_projects
+Basics
+Control_flow
+Functions
+Data_structures
+Oops
+Files
+Error Handling
+Modules Packages
+Advanced
+Projects
